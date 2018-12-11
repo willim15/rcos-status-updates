@@ -16,8 +16,20 @@ was changed in terms structure they kept the same core elements:
 	-Clean and minimal 
 
 ## This Week's Plan
-This week's plan is to continue learning some more After Effects and find the different 
+-Create a finished website for the demo
+	-Make sure that the back-end connects thoroughly with the front-end html pages.
+A lot of the finished website needs some more graphics that we haven't decided what they're going to be.
+There's some mock-ups that we're going to be creating which are going to have their own templates as well.
+	-Landing Page animation
+	-About Page Starting Graphic
+We also need to revamp the login and signup page. They are just base text boxes which need a lot more prettying up.
+	-Dylan and I plan to work on those classes together so we can make them look prettier. 
 
 ## Anything Blocking?
+Nothing is blocking at the moment. We've gotten into the groove and making a lot of progress. It seems like we're right on schedule
+to prepare for the demo we need to present. It looks like we are making a lot of progress.
 
 ## Notes
+https://docs.djangoproject.com/en/2.1/ref/templates/language/
+Started reading up on the templates for Django when designing the website.
+	-I'm going to make the header and footer on a seperate page from the about and landing
